@@ -1,0 +1,89 @@
+
+.main1 {
+    display: flex;
+    justify-content: center;
+    padding-left: 100px;
+    padding-top: 100px;
+    gap: 80px;
+}
+img {
+    width:100%
+}
+image {
+    width: 50%;
+}
+.text1 {
+    width: 50%;
+}
+.h1 {
+    width: 692px;
+    height: 52px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60.609px;
+    line-height: 152px
+}
+.p1 {
+    width: 500px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20.658px;
+    
+}
+.view1 {
+    width: 189px;
+    height: 45px;
+    border: 5px #91AE78 solid;
+    border-radius: 40px;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    margin-top: 100px;
+}
+.hr1 {
+    width: 300px;
+    padding-top: 100px;
+}
+.main2 {
+    display: flex;
+    justify-content: center;
+    padding-left: 100px;
+    padding-top: 100px;
+    gap: 80px;
+}
+.text2 {
+    width: 50%;
+}
+.h2 {
+    width: 692px;
+    height: 52px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60.609px;
+    line-height: 152px
+}
+.p2 {
+    width: 500px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20.658px;
+    
+}
+.view2 {
+    width: 189px;
+    height: 45px;
+    border: 5px #91AE78 solid;
+    border-radius: 40px;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    margin-top: 100px;
+}
+.hr2 {
+    width: 300px;
+    padding-top: 100px;
+}
